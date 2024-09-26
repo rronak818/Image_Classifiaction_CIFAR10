@@ -34,8 +34,8 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/rronak818/Image_Classifiaction_CIFAR10.git
+   
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
